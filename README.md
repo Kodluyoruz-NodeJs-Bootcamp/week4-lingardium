@@ -11,6 +11,12 @@ This project was created for Patika.dev Gusto&RemoteTeam sponsored NodeJs Bootca
 
 - ✓ Added HTML5 template to make website look cooler 😎
 
+![beforeafter](https://user-images.githubusercontent.com/53529387/151676691-72f483a9-35da-4327-9115-bece845c94e5.jpg)
+
+## 📹 Demo Video
+
+https://user-images.githubusercontent.com/53529387/151676580-967db895-f6aa-46a3-a009-cbcd425da0cc.mp4
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
